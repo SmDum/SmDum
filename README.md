@@ -1,5 +1,13 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/092e756a-5acc-407b-802f-f50dbde152e2"/><br/>
 
+## GitHub Stats
+
+<div>
+  <img height=160rem src="https://github-readme-stats.vercel.app/api?username=SmDum&show_icons=true&theme=dracula"/>
+  <img height=160rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmDum&layout=donut&theme=dracula" />
+</div> 
+
+
 ## Programming Languages
 
 <div style="display: inline_block"><br/>
