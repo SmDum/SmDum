@@ -1,6 +1,6 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/092e756a-5acc-407b-802f-f50dbde152e2"/><br/>
 
-##Programming Lenguages
+## Programming Languages
 
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
