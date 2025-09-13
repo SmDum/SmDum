@@ -1,14 +1,18 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/092e756a-5acc-407b-802f-f50dbde152e2"/><br/>
+# 👋 Olá, eu sou o Samuel  
 
-## GitHub Stats
+💻 Estudante de **Engenharia de Computação** na [FACENS](https://facens.br)  
+🤖 Integrante da equipe de robótica **OmegaBotz** — campeão da RCX 2024 e TOP 1 nacional em Hockey Micro  
+🔧 Experiência em **Arduino, ESP32, impressão 3D e visão computacional**  
+📊 Interesse em **análise de dados, IoT e projetos que unem hardware + software**  
+🚀 Sempre em busca de aprender, inovar e criar soluções que impactem positivamente 
 
-<div>
-  <img height=145rem src="https://github-readme-stats.vercel.app/api?username=SmDum&show_icons=true&theme=dracula"/>
-  <img height=145rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmDum&layout=donut&theme=dracula" />
-</div> 
+## 📈 GitHub Stats
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmDum&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmDum&layout=compact&theme=tokyonight)
 
 
-## Languages
+## ⚡ Tecnologias
 
 <div style="display: inline_block"><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=50px/>                
@@ -24,7 +28,7 @@
               
 </div><br/>
 
-## IDE
+## 🔧 Ferramentas
 
 <div style="display: inline_block"><br/>
  
@@ -32,8 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width=50px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width=50px/>
           
-          
 </div><br/>
-  
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/e3d34a0d-0ed6-406b-b9a0-8110542344db"/>
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/smdum)  
+- 📷 [Instagram](https://instagram.com/smdum_)  
+- 📧 *samueldemoraesdelgado2005@gmail.com*
+  
+✨ Sempre aberto a trocar ideias sobre robótica, dados e projetos inovadores!
