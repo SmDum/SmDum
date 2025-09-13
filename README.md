@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o Samuel  
 
-💻 Estudante de **Engenharia de Computação** na [FACENS](https://facens.br)  
-🤖 Integrante da equipe de robótica **OmegaBotz** — Campeão da RCX 2024
-🔧 Experiência em **Arduino, ESP32, impressão 3D e visão computacional**  
-📊 Interesse em **análise de dados, IoT e projetos que unem hardware + software**  
-🚀 Sempre em busca de aprender, inovar e criar soluções que impactem positivamente 
+💻 Estudante de **Engenharia de Computação** na [FACENS](https://facens.br) </br
+🤖 Integrante da equipe de robótica **OmegaBotz** — Campeão da RCX 2024 </br>
+🔧 Experiência em **Arduino, ESP32, impressão 3D e visão computacional**  </br>
+📊 Interesse em **análise de dados, IoT e projetos que unem hardware + software**   </br>
+🚀 Sempre em busca de aprender, inovar e criar soluções que impactem positivamente  </br>
 
 ## 📈 GitHub Stats
 
