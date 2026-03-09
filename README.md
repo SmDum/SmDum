@@ -7,11 +7,6 @@
 🚀 Sempre em busca de aprender, inovar e criar soluções que impactem positivamente  <br/>
 <br/>
 
-## 📈 GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmDum&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmDum&layout=compact&theme=tokyonight)
-<br/><br/>
 
 ## ⚡ Tecnologias
 
